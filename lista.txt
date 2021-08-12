@@ -1,1 +1,7 @@
-Emiliano Barat dni:31777444
+const Estudiantes = {
+    {
+        nombre: 'Emiliano',
+        apellido: 'Barat',
+        legajo: 111494
+    }
+}
